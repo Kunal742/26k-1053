@@ -7,4 +7,9 @@
 
 ## Skills
 
+## Hobbies & Extracurriculars
+1. Coding and problem solving
+   - [x] complete Lab 03 setup
+   - [ ] learn advanced features
 
+2. Reading literature
